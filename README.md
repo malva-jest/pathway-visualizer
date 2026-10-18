@@ -13,7 +13,7 @@ I'm parking it here as a record of the idea and what I learned.
 - `app.py`: a later, more modular attempt
 
 ## Architecture
-![Architecture diagram](docs/architecture.png)
+![Architecture diagram](docs/architecture-new.png)
 
 ## What it was meant to do
 - Show a learner's pathway (components, activities, assessments) on a
